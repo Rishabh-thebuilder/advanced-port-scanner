@@ -49,8 +49,7 @@ python main.py
 
 ## 📸 GUI Preview
 
-*Add screenshot here (screenshots/gui.png)*
-
+![GUI Screenshot](gui.png.png)
 ---
 
 ## 📄 Sample Output
