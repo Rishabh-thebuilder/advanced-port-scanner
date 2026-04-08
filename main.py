@@ -1,12 +1,3 @@
-# 🚀 ULTIMATE NETWORK PORT SCANNER (FINAL SUBMISSION VERSION)
-# Features:
-# - Modern Dark GUI
-# - Multithreaded Scanner
-# - Risk Classification (HIGH/MEDIUM/LOW)
-# - Structured Security Report
-# - TXT + PDF Export
-# - Graph (Risk Distribution)
-
 import socket
 import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
