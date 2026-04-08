@@ -92,4 +92,4 @@ The tool generates a structured security report:
 
 ## 👨‍💻 Author
 
-Your Name
+Rishabh Sharma
